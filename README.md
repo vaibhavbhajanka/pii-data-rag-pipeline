@@ -53,7 +53,7 @@ pip install python-dotenv langchain langchain-community openai groq tiktoken pin
 
 ## Usage
 
-Open and run the `RAG.ipynb` notebook. The main steps are:
+Open and run the `rag_pipeline.ipynb` notebook. The main steps are:
 
 1. **Install and import libraries**
 2. **Load environment variables and API keys**
